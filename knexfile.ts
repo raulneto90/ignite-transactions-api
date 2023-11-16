@@ -1,3 +1,3 @@
-import { databaseConfig } from './src/database';
+import { databaseConfig } from './src/app/config/database';
 
 export default databaseConfig;
